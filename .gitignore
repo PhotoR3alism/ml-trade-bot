@@ -1,0 +1,9 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# models (we’ll push code, not pickles)
+models/*.pkl
+
+# environment
+.env

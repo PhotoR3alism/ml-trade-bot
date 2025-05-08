@@ -1,0 +1,72 @@
+2025-05-08 13:20:33,204 
+1 Failed download:
+2025-05-08 13:20:33,204 ['BTC-USD']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2025-05-08 13:20:58,525 
+1 Failed download:
+2025-05-08 13:20:58,525 ['BTC-USD']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2025-05-08 13:21:44,842 
+1 Failed download:
+2025-05-08 13:21:44,842 ['BTC-USD']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2025-05-08 13:22:11,012 
+1 Failed download:
+2025-05-08 13:22:11,012 ['BTC-USD']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2025-05-08 13:24:25,768 
+1 Failed download:
+2025-05-08 13:24:25,768 ['BTC-USD']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2025-05-08 13:24:26,637 
+1 Failed download:
+2025-05-08 13:24:26,637 ['BTC-USD']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2025-05-08 13:27:45,684 
+1 Failed download:
+2025-05-08 13:27:45,686 ['BTC-USD']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2025-05-08 13:28:09,785 
+1 Failed download:
+2025-05-08 13:28:09,785 ['BTC-USD']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2025-05-08 13:39:47,516 
+1 Failed download:
+2025-05-08 13:39:47,516 ['BTS-USD']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2025-05-08 13:39:48,356 
+1 Failed download:
+2025-05-08 13:39:48,356 ['BTS-USD']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2025-05-08 14:32:25,414 
+1 Failed download:
+2025-05-08 14:32:25,414 ['BTC-USD']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2025-05-08 14:32:32,009 
+1 Failed download:
+2025-05-08 14:32:32,009 ['BTC-USD']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2025-05-08 14:35:40,703 
+1 Failed download:
+2025-05-08 14:35:40,703 ['BTC-USD']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2025-05-08 14:35:44,023 
+1 Failed download:
+2025-05-08 14:35:44,023 ['BTC-USD']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2025-05-08 14:36:46,739 
+1 Failed download:
+2025-05-08 14:36:46,739 ['BTC-USD']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2025-05-08 14:36:49,052 
+1 Failed download:
+2025-05-08 14:36:49,052 ['BTC-USD']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2025-05-08 14:37:56,637 
+1 Failed download:
+2025-05-08 14:37:56,637 ['BTC-USD']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2025-05-08 14:38:01,335 
+1 Failed download:
+2025-05-08 14:38:01,335 ['BTC-USD']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2025-05-08 14:40:43,430 
+1 Failed download:
+2025-05-08 14:40:43,430 ['BTC-USD']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2025-05-08 14:40:44,454 
+1 Failed download:
+2025-05-08 14:40:44,454 ['BTC-USD']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2025-05-08 14:41:50,704 
+1 Failed download:
+2025-05-08 14:41:50,704 ['BTC-USD']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2025-05-08 14:41:51,772 
+1 Failed download:
+2025-05-08 14:41:51,772 ['BTC-USD']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2025-05-08 14:42:52,927 
+1 Failed download:
+2025-05-08 14:42:52,927 ['BTC-USD']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2025-05-08 14:42:54,214 
+1 Failed download:
+2025-05-08 14:42:54,214 ['BTC-USD']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
